@@ -54,7 +54,7 @@
             <groupId>com.github.xiaoymin</groupId>
             <artifactId>knife4j-aggregation-spring-boot-starter</artifactId>
             <!-- 在引用时请在maven中央仓库搜索aggregation最新版本号 -->
-            <version>4.0.0</version>
+            <version>4.5.0</version>
         </dependency>
 
         <dependency>
